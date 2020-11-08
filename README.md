@@ -12,10 +12,18 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Wilfison | Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][https://dribbble.com/wilfison]
-[<img align="left" alt="Wilfison | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/willbatolli]
-[<img align="left" alt="Wilfison | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/wilfison/]
-[<img align="left" alt="Wilfison | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/wilfison/]
+<a href="https://dribbble.com/wilfison">
+<img alt="Wilfison | Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg"/>
+</a>
+<a href="https://twitter.com/willbatolli">
+<img alt="Wilfison | Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
+</a>
+<a href="https://linkedin.com/in/wilfison">
+<img alt="Wilfison | Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+</a>
+<a href="https://instagram.com/wilfison">
+<img alt="Wilfison | Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
+</a>
 
 <br />
 
