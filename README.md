@@ -1,4 +1,4 @@
-### Hi there, I'm Jesse - aka [Wilfison][website] 👋
+### Hi there, I'm Wilfison 👋
 
 
 ## I'm a Brother, Son, Developer, and Designer!!
