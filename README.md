@@ -28,31 +28,31 @@
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/github/explore/raw/master/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%; margin-right: 8px;">
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/github/explore/raw/main/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%; margin-right: 8px;">
 
-<img align="left" alt="HTML5" width="26px" src="https://github.com/github/explore/raw/master/topics/html/html.png" style="max-width:100%; margin-right: 8px;">
+<img align="left" alt="HTML5" width="26px" src="https://github.com/github/explore/raw/main/topics/html/html.png" style="max-width:100%; margin-right: 8px;">
 
-<img align="left" alt="CSS3" width="26px" src="https://github.com/github/explore/raw/master/topics/css/css.png" style="max-width:100%; margin-right: 8px;">
+<img align="left" alt="CSS3" width="26px" src="https://github.com/github/explore/raw/main/topics/css/css.png" style="max-width:100%; margin-right: 8px;">
 
-<img align="left" alt="Sass" width="26px" src="https://github.com/github/explore/raw/master/topics/sass/sass.png" style="max-width:100%; margin-right: 8px;">
+<img align="left" alt="Sass" width="26px" src="https://github.com/github/explore/raw/main/topics/sass/sass.png" style="max-width:100%; margin-right: 8px;">
 
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/github/explore/raw/master/topics/javascript/javascript.png" style="max-width:100%; margin-right: 8px;">
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/github/explore/raw/main/topics/javascript/javascript.png" style="max-width:100%; margin-right: 8px;">
 
-<img align="left" alt="Ruby" width="26px" src="https://github.com/github/explore/raw/master/topics/ruby/ruby.png" style="max-width:100%; margin-right: 8px;">
+<img align="left" alt="Ruby" width="26px" src="https://github.com/github/explore/raw/main/topics/ruby/ruby.png" style="max-width:100%; margin-right: 8px;">
 
-<img align="left" alt="Ruby On Rails" width="26px" src="https://github.com/github/explore/raw/master/topics/rails/rails.png" style="max-width:100%; margin-right: 8px;">
+<img align="left" alt="Ruby On Rails" width="26px" src="https://github.com/github/explore/raw/main/topics/rails/rails.png" style="max-width:100%; margin-right: 8px;">
 
-<img align="left" alt="React" width="26px" src="https://github.com/github/explore/raw/master/topics/react/react.png" style="max-width:100%; margin-right: 8px;">
+<img align="left" alt="React" width="26px" src="https://github.com/github/explore/raw/main/topics/react/react.png" style="max-width:100%; margin-right: 8px;">
 
-<img align="left" alt="Node.js" width="26px" src="https://github.com/github/explore/raw/master/topics/nodejs/nodejs.png" style="max-width:100%; margin-right: 8px;">
+<img align="left" alt="Node.js" width="26px" src="https://github.com/github/explore/raw/main/topics/nodejs/nodejs.png" style="max-width:100%; margin-right: 8px;">
 
-<img align="left" alt="SQL" width="26px" src="https://github.com/github/explore/raw/master/topics/sql/sql.png" style="max-width:100%; margin-right: 8px;">
+<img align="left" alt="SQL" width="26px" src="https://github.com/github/explore/raw/main/topics/sql/sql.png" style="max-width:100%; margin-right: 8px;">
 
-<img align="left" alt="Git" width="26px" src="https://github.com/github/explore/raw/master/topics/git/git.png" style="max-width:100%; margin-right: 8px;">
+<img align="left" alt="Git" width="26px" src="https://github.com/github/explore/raw/main/topics/git/git.png" style="max-width:100%; margin-right: 8px;">
 
-<img align="left" alt="GitHub" width="26px" src="https://github.com/github/explore/raw/master/topics/github/github.png" style="max-width:100%; margin-right: 8px;">
+<img align="left" alt="GitHub" width="26px" src="https://github.com/github/explore/raw/main/topics/github/github.png" style="max-width:100%; margin-right: 8px;">
 
-<img align="left" alt="Shell Script" width="26px" src="https://github.com/github/explore/raw/master/topics/terminal/terminal.png" style="max-width:100%; margin-right: 8px;">
+<img align="left" alt="Shell Script" width="26px" src="https://github.com/github/explore/raw/main/topics/terminal/terminal.png" style="max-width:100%; margin-right: 8px;">
 
 <br />
 <br />
