@@ -6,7 +6,7 @@
 - 🔭 I'm currently working mainly on Ruby On Rails projects!
 - 🌱 And learning everything a little bit 😅
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play music games
 
 <br/>
