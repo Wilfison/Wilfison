@@ -20,8 +20,8 @@
 ## My Stack
 ### Backend
 
+- Ruby
 - Ruby on Rails
-- Nodejs, typescript
 - Postgres, SQLServer, Redis
 - Docker
 - DOKKU
